@@ -1,4 +1,3 @@
-
 import {
   logo,
   backend,
@@ -15,7 +14,6 @@ import {
   mysql,
   express,
   aws,
-  mui,
   
   gsap,
   framer,
@@ -118,10 +116,6 @@ const technologies = [
   {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Material Ui",
-    icon: mui,
   },
   {
     name: "Node JS",
@@ -271,3 +265,4 @@ const projects = [
 ];
 
 export { services, technologies, experiences, testimonials, projects };
+
